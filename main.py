@@ -33,7 +33,7 @@ def home():
     return {
         "project": "SkillGapAI",
         "status": "AI Engine Running 🚀",
-        "docs": "http://127.0.0.1:8000/docs"
+        "docs": "/docs"
     }
 
 # ---------------- STARTUP SEED ----------------
@@ -196,4 +196,5 @@ async def analyze_role(
             f"The resume matches {overall_match}% of the job description. "
             f"The candidate is best suited for {predicted_role}. "
             f"Major gaps are identified in {', '.join(missing_skills[:3])}."
+
     }
