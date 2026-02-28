@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/klu/static/css/main.6d4e9fc3.css",
+    "main.js": "/klu/static/js/main.76342ad1.js",
+    "static/js/453.671ab84c.chunk.js": "/klu/static/js/453.671ab84c.chunk.js",
+    "index.html": "/klu/index.html",
+    "main.6d4e9fc3.css.map": "/klu/static/css/main.6d4e9fc3.css.map",
+    "main.76342ad1.js.map": "/klu/static/js/main.76342ad1.js.map",
+    "453.671ab84c.chunk.js.map": "/klu/static/js/453.671ab84c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d4e9fc3.css",
+    "static/js/main.76342ad1.js"
+  ]
+}
